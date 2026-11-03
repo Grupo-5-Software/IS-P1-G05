@@ -33,5 +33,3 @@ s
 20/11/2026 a las 14:00.
 
 Archivo comprimido: IS-P1-GXX
-
-EOF
